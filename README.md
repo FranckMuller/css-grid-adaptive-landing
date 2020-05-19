@@ -8,5 +8,7 @@ css grids work in two axes, which makes arranging blocks of different complexity
 
 # getting starting
 
-in order to see the project run the command "git clone https://github.com/FranckMuller/css-grid-adaptive-landing"
+run the command "git clone https://github.com/FranckMuller/css-grid-adaptive-landing"
 and open index.html file
+
+see the project here: https://css-grid-adaptive-landing.herokuapp.com/index.html
